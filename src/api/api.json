@@ -1,0 +1,71 @@
+{
+  "baseUrl": "http://housekeep.yexingxia.com/",
+  "user": {
+    "method": "get",
+    "url": "api.php/Index/login"
+  },
+  "home": {
+    "method": "get",
+    "url": "api.php/Index/home"
+  },
+  "cleanDetail": {
+    "method": "get",
+    "url": "api.php/Index/cleanDetail"
+  },
+  "packageDetail": {
+    "method": "get",
+    "url": "api.php/Index/packageDetail"
+  },
+  "specialDetail": {
+    "method": "get",
+    "url": "api.php/Index/specialDetail"
+  },
+  "longDetail": {
+    "method": "get",
+    "url": "api.php/Index/longDetail"
+  },
+  "checkOver": {
+    "method": "get",
+    "url": "api.php/Index/checkOver"
+  },
+  "getInfo": {
+    "method": "get",
+    "url": "api.php/Index/getInfo"
+  },
+  "sendOrder": {
+    "method": "post",
+    "url": "api.php/Index/order"
+  },
+  "deleteOrder": {
+    "method": "get",
+    "url": "api.php/Index/deleteOrder"
+  },
+  "infoList": {
+    "method": "get",
+    "url": "api.php/Index/infoList"
+  },
+  "infoDelete": {
+    "method": "get",
+    "url": "api.php/Index/infoDelete"
+  },
+  "infoAdd": {
+    "method": "post",
+    "url": "api.php/Index/infoAdd"
+  },
+  "infoEdit": {
+    "method": "post",
+    "url": "api.php/Index/infoEdit"
+  },
+  "comment": {
+    "method": "post",
+    "url": "api.php/Index/comment"
+  },
+  "orderList": {
+    "method": "get",
+    "url": "api.php/Index/orderList"
+  },
+  "orderDetail": {
+    "method": "get",
+    "url": "api.php/Index/orderDetail"
+  }
+}
